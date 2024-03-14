@@ -2,7 +2,7 @@
 
 Quickly access accurate weather information with a clean, modern and user-friendly design.
 
-Click here for a demo https://shashankhl-weatherapp.netlify.app/
+Click here for a <a target="_blank" href="https://shashankhl-weatherapp.netlify.app/"> DEMO </a> 
 
 <img src="thumbnail.png" alt="Weather" width="100%">
 
